@@ -28,6 +28,7 @@ public class JavaEEPertemuan9 {
      *  @param aNumber Any Integer value
      *  @return 
      */
+    @MySimpleAnnotation2
     int total(int aNumber) {
         int a_Value = aNumber + 20;
         
